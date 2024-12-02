@@ -179,7 +179,7 @@
 
 
 }
-.box1
+.box-large
 { margin-top:50px;
     border: 3px solid black;
     height: 269px;
@@ -211,4 +211,54 @@
     color: #504E4E;
     font: 14px;
     text-align: center;
+}
+.cover-box
+{
+    border: 0.5px solid grey;
+    border-radius: 12px;
+    width:418px;
+    height: 186px;
+    display: flex;
+   flex-direction: row;
+
+}
+.cover-image
+{
+    width: 100px;
+    height: 125px;
+    background-image: url(./coverstories/9-YEARS-OF-ODYSSEY.jpg);
+    background-size: cover;
+}
+.one{
+    color: #FF6150;
+    font-size: 13px;
+}
+.two{
+    font-size: 18px;
+    color: #000000;
+    font-weight: 800;
+    margin: 5px 0px 8px;
+}
+.three{
+    font-size: 15px;
+    color: #818181;
+    margin-bottom: 8px;
+}
+.cover-timer
+{
+    margin-top: 80px;
+
+}
+/*popular box catgegory */
+.popular-box
+{
+    display: flex;
+   
+    color: white;
+    background-color: #858383;
+    margin-top: 30px;
+    height: 155px;
+    width: 155px;
+    background-image: url(./popular-category/cBusiness.jpg);
+    background-size: cover;
 }
