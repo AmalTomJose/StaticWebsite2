@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.navbar
+{
+    background-color: black;
+    display: flex;
+    
+    
+    align-items: center;
+    height: 56px;
+    padding:0px 15px 0px 15px;
+}
+
+.section-one
+{
+    width: 732px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo  {
+    color: white;
+    font-size: 39px;
+    height: 39px;
+    width: 34px;
+}
+.nav-image
+{
+    margin-left:20px;
+    background-image: url(download.png);
+    width: 210px;
+    background-size: cover;
+}
+.section-two
+{
+    width: 545px;
+    display: flex;
+    justify-content: space-evenly;
+    border-right: 2px solid #A8A8A8;
+
+}
+.nav-sectiontwo
+{
+    color: #A8A8A8;
+    font-size: 14px;
+    margin: 3px 26px 0px 26px;
+   
+}
+.nav-sectiontwo-icon
+{
+    color: #A8A8A8;
+
+}
+.section-three
+{
+    width: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    color:#A8A8A8;
+}
+
+/* Main Section */
+.container{
+    border: 2px solid green;
+   
+   
+ 
+
+}
+.main-first
+{
+    border: 3px solid red;
+    text-align: center;
+
+    width: 100%;
+    height: 1000px;
+    color: white;
+    background-image: url(./web2x\ \(1\).jpg);
+    background-size: cover;
+    
+
+}
+.main-sections
+{
+    margin-top: 50px;
+
+}
+.image{
+    background-image: url(logo2x.png);
+
+    background-size: cover;
+    width:260px;
+    height: 40px;
+}
+.main-image
+{
+ display: flex;
+ justify-content: center;  
+    height: 50px;
+
+}
+.main-h1
+{
+    font-size: 38px;
+    margin-top: 20px;
+}
+.main-span
+{
+    font-size: 24px;
+    font-weight: 500;
+    height: 80px;
+    margin: 15px 0px 15px 0px;
+}
+.main-span-one
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+.main-span-two
+{
+    color: rgb(246, 217, 0);
+    font-size: 25px;
+    font-weight: 600;
+}
+.main-p{
+    color: green;
+    font-size: 20px;
+    height: 14px;
+    margin: 16px 0px 34px;
+    font-weight: 500;
+}
+.main-button
+{
+    background-color: rgb(246, 217, 0);
+    height: 44px;
+    width: 280px;
+    color: black;
+    padding: 15px 24px 13px;
+    font-weight: 500;
+}
+.main-button p{
+    
+}
