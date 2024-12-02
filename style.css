@@ -73,22 +73,18 @@
 }
 .main-first
 {
-    border: 3px solid red;
+
     text-align: center;
 
     width: 100%;
-    height: 1000px;
+    height: 650px;
     color: white;
     background-image: url(./web2x\ \(1\).jpg);
     background-size: cover;
     
 
 }
-.main-sections
-{
-    margin-top: 50px;
 
-}
 .image{
     background-image: url(logo2x.png);
 
@@ -120,6 +116,11 @@
     font-size: 20px;
     font-weight: 600;
 }
+.main-span-three
+{
+    font-size: 25px;
+    font-weight: 600;
+}
 .main-span-two
 {
     color: rgb(246, 217, 0);
@@ -138,10 +139,35 @@
     background-color: rgb(246, 217, 0);
     height: 44px;
     width: 280px;
+    font-size: 15px;
     color: black;
-    padding: 15px 24px 13px;
+    padding: 15px 24px 15px 24px;
     font-weight: 500;
 }
-.main-button p{
+.main-ul
+{
+    display: flex;
+    justify-content: center;
+    list-style: none;
     
 }
+.main-ul li{
+  
+    margin-left: 20px;
+}
+.ul-span
+{
+    background-color: rgb(67, 65, 65);
+    font-size: 38px;
+    color: #956800;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+.ul-timer
+{
+    font-size: 12px;
+    color: #DFDFDF;
+
+}
+
+
