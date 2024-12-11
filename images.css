@@ -55,3 +55,8 @@
     background-image: url(./footerimages/amazon-appstore2x.png);
     background-size:cover ;
 }
+.footer-image4
+{
+    background-image: url(https://cdn.magzter.com/images/appdownload-page/Microsoft-appStore.svg);
+    background-size: cover;
+}
