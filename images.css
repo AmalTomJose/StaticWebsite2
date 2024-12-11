@@ -38,3 +38,20 @@
     background-image: url(./images/box1/2\ \(7\).jpg);
     background-size: cover;
 }
+
+/*footer-images   --*/
+.footer-image1
+{
+    background-image: url(./footerimages/appstore-dark-md.png);
+    background-size: cover;
+}
+.footer-image2
+{
+    background-image: url(./footerimages/playstore-gdark-md.png);
+    background-size: cover;
+}
+.footer-image3
+{
+    background-image: url(./footerimages/amazon-appstore2x.png);
+    background-size:cover ;
+}
