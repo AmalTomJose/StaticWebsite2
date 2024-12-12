@@ -64,13 +64,7 @@
 }
 
 /* Main Section */
-.container{
-    border: 2px solid green;
-   
-   
- 
 
-}
 .main-first
 {
 
@@ -173,15 +167,10 @@
 
 /*Box sessions */
 
-.content-pages
-{
-    border: 2px solid blue;
 
-
-}
 .box-large
 { margin-top:50px;
-    border: 3px solid black;
+
     height: 269px;
     width: 100%;
 }
@@ -205,7 +194,7 @@
 .box{
     height: 200px;
     width: 160px;
-    border: 2px solid orange;
+
 }
 .box-p{
     color: #504E4E;
@@ -391,6 +380,7 @@
 {
     display: flex;
     justify-content: space-between;
+    margin-top: 35px;
 }
 .img {
     width: 110px;
@@ -445,6 +435,7 @@
 
 .panel2-icons
 {
+
     display: flex;
 
 }
@@ -506,5 +497,11 @@
 {
     color: #006CC0;
     font-size: 13px;
+
+}
+.section1-lower
+{
+border-top: 2px solid grey;
+
 
 }
